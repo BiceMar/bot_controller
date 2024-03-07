@@ -1,2 +1,5 @@
-# bot_controller
- Flutter application designed to remotely control ERL PoldinoBot via Bluetooth 
+# erl_bot
+
+App for erl tank and bot control
+
+## Getting Started

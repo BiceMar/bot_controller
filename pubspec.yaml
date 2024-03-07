@@ -1,0 +1,29 @@
+name: erl_bot
+description: App for erl tank and bot control
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_joystick: ^0.0.2
+  flutter_bloc: ^8.1.1
+  go_router: ^5.1.5
+  flutter_spinbox: ^0.11.0
+  photo_view: ^0.14.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
